@@ -1,0 +1,7 @@
+- bots
+- are
+- useless
+- and
+- should
+- be
+- [ ]killed
