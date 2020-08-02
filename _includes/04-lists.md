@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- bots
+- are
+- useless
+- and
+- should
+- be
+- [ ]killed
