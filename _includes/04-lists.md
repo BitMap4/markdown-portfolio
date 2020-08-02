@@ -4,4 +4,4 @@
 - and
 - should
 - be
-- [ ]killed
+-[ ] killed
