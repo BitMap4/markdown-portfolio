@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I dont like **bots**. All bots should be killed
+```
+If bots(status=='alive') then{
+  world = 'safe';
+}
+else  kill.all(bots) = true;
+```
